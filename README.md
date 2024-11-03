@@ -1,2 +1,4 @@
 # TrianguloNumerico
- Procesos en Java
+Este proyecto, llamado "TrianguloNumerico", tiene como finalidad practicar la ejecución de varios procesos en Java. A partir de una clase base llamada Triangulo, el programa genera triángulos numéricos y los muestra en diferentes archivos de salida. La actividad consiste en lanzar tres procesos simultáneos que ejecutan el programa Triangulo con los valores 5, 7 y 9 como parámetros. Cada proceso crea un archivo de salida (triangulo5.txt, triangulo7.txt, triangulo9.txt) que, además de mostrar el triángulo generado, incluye la fecha de inicio y de finalización de la ejecución.
+
+El objetivo principal es aprender a manejar procesos en Java y a trabajar con archivos de forma que se documente la ejecución de cada uno. Esta actividad permite entender mejor el control de procesos y la generación de salidas independientes, aspectos importantes para el desarrollo de aplicaciones que requieren múltiples tareas en paralelo.
